@@ -73,5 +73,4 @@ or Cache (eg, nosql database   ) given the search results are varied
 ```shell
 API_KEY=[REAL_API-KEY] ./gradlew :bootRun 
 
-./gradlew build
 ```
