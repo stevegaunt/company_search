@@ -89,7 +89,6 @@ public class TrueProxyService {
 
     @Getter
     @Setter
-//@Table(name = "Officer")
     @NoArgsConstructor(access = AccessLevel.PROTECTED)
     @JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy.class)
     public static class OfficersResponse {
@@ -99,7 +98,6 @@ public class TrueProxyService {
 
     @Getter
     @Setter
-//@Table(name = "Officer")
     @NoArgsConstructor(access = AccessLevel.PROTECTED)
     @JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy.class)
     public static class CompaniesResponse {
