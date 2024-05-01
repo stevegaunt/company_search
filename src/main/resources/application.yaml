@@ -1,0 +1,52 @@
+
+logging:
+  level:
+    com.zaxxer.hikari.HikariConfig: debug
+    steve: debug
+    graphql: debug
+    web: debug
+
+
+
+spring:
+  jackson:
+    default-property-inclusion=NON_NULL:
+
+  application:
+    name: company_search
+  datasource:
+    url: jdbc:h2:mem:testdb?MODE=MYSQL;
+  threads:
+    virtual:
+      enabled: true
+  task:
+    execution:
+      simple:
+        concurrency-limit: 20
+
+
+
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: create-drop
+
+
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+
+application:
+  security:
+    api-key:${API_KEY}:
+
+trueproxy:
+  base_url: https://exercise.trunarrative.cloud/TruProxyAPI/rest/Companies/v1/
+  company_uri: Search
+  officer_uri: Officers
+
+debug: true
+

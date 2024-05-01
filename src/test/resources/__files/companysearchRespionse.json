@@ -1,0 +1,275 @@
+{
+  "total_count": 5,
+  "items": [
+    {
+      "company_number": "test0",
+      "company_type": "testCompanyType0",
+      "title": "title0",
+      "company_status": "active",
+      "date_of_creation": "2024-01-0",
+      "address": {
+        "locality": "companylocality0",
+        "postal_code": "companypostcode0",
+        "premises": "companypremises0",
+        "address_line_1": "companyaddressLineis0",
+        "country": "companycountry0"
+      },
+      "officers": [
+        {
+          "name": "name0",
+          "officer_role": "role0",
+          "appointed_on": "2024-01-0",
+          "resigned_on": "2024-01-0",
+          "address": {
+            "locality": "officerlocality0",
+            "postal_code": "officerpostcode0",
+            "premises": "officerpremises0",
+            "address_line_1": "officeraddressLineis0",
+            "country": "officercountry0"
+          }
+        },
+        {
+          "name": "name1",
+          "officer_role": "role1",
+          "appointed_on": "2024-01-1",
+          "address": {
+            "locality": "officerlocality1",
+            "postal_code": "officerpostcode1",
+            "premises": "officerpremises1",
+            "address_line_1": "officeraddressLineis1",
+            "country": "officercountry1"
+          }
+        },
+        {
+          "name": "name2",
+          "officer_role": "role2",
+          "appointed_on": "2024-01-2",
+          "resigned_on": "2024-01-2",
+          "address": {
+            "locality": "officerlocality2",
+            "postal_code": "officerpostcode2",
+            "premises": "officerpremises2",
+            "address_line_1": "officeraddressLineis2",
+            "country": "officercountry2"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "test1",
+      "company_type": "testCompanyType1",
+      "title": "title1",
+      "company_status": "inactive",
+      "date_of_creation": "2024-01-1",
+      "address": {
+        "locality": "companylocality1",
+        "postal_code": "companypostcode1",
+        "premises": "companypremises1",
+        "address_line_1": "companyaddressLineis1",
+        "country": "companycountry1"
+      },
+      "officers": [
+        {
+          "name": "name0",
+          "officer_role": "role0",
+          "appointed_on": "2024-01-0",
+          "resigned_on": "2024-01-0",
+          "address": {
+            "locality": "officerlocality0",
+            "postal_code": "officerpostcode0",
+            "premises": "officerpremises0",
+            "address_line_1": "officeraddressLineis0",
+            "country": "officercountry0"
+          }
+        },
+        {
+          "name": "name1",
+          "officer_role": "role1",
+          "appointed_on": "2024-01-1",
+          "address": {
+            "locality": "officerlocality1",
+            "postal_code": "officerpostcode1",
+            "premises": "officerpremises1",
+            "address_line_1": "officeraddressLineis1",
+            "country": "officercountry1"
+          }
+        },
+        {
+          "name": "name2",
+          "officer_role": "role2",
+          "appointed_on": "2024-01-2",
+          "resigned_on": "2024-01-2",
+          "address": {
+            "locality": "officerlocality2",
+            "postal_code": "officerpostcode2",
+            "premises": "officerpremises2",
+            "address_line_1": "officeraddressLineis2",
+            "country": "officercountry2"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "test2",
+      "company_type": "testCompanyType2",
+      "title": "title2",
+      "company_status": "active",
+      "date_of_creation": "2024-01-2",
+      "address": {
+        "locality": "companylocality2",
+        "postal_code": "companypostcode2",
+        "premises": "companypremises2",
+        "address_line_1": "companyaddressLineis2",
+        "country": "companycountry2"
+      },
+      "officers": [
+        {
+          "name": "name0",
+          "officer_role": "role0",
+          "appointed_on": "2024-01-0",
+          "resigned_on": "2024-01-0",
+          "address": {
+            "locality": "officerlocality0",
+            "postal_code": "officerpostcode0",
+            "premises": "officerpremises0",
+            "address_line_1": "officeraddressLineis0",
+            "country": "officercountry0"
+          }
+        },
+        {
+          "name": "name1",
+          "officer_role": "role1",
+          "appointed_on": "2024-01-1",
+          "address": {
+            "locality": "officerlocality1",
+            "postal_code": "officerpostcode1",
+            "premises": "officerpremises1",
+            "address_line_1": "officeraddressLineis1",
+            "country": "officercountry1"
+          }
+        },
+        {
+          "name": "name2",
+          "officer_role": "role2",
+          "appointed_on": "2024-01-2",
+          "resigned_on": "2024-01-2",
+          "address": {
+            "locality": "officerlocality2",
+            "postal_code": "officerpostcode2",
+            "premises": "officerpremises2",
+            "address_line_1": "officeraddressLineis2",
+            "country": "officercountry2"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "test3",
+      "company_type": "testCompanyType3",
+      "title": "title3",
+      "company_status": "inactive",
+      "date_of_creation": "2024-01-3",
+      "address": {
+        "locality": "companylocality3",
+        "postal_code": "companypostcode3",
+        "premises": "companypremises3",
+        "address_line_1": "companyaddressLineis3",
+        "country": "companycountry3"
+      },
+      "officers": [
+        {
+          "name": "name0",
+          "officer_role": "role0",
+          "appointed_on": "2024-01-0",
+          "resigned_on": "2024-01-0",
+          "address": {
+            "locality": "officerlocality0",
+            "postal_code": "officerpostcode0",
+            "premises": "officerpremises0",
+            "address_line_1": "officeraddressLineis0",
+            "country": "officercountry0"
+          }
+        },
+        {
+          "name": "name1",
+          "officer_role": "role1",
+          "appointed_on": "2024-01-1",
+          "address": {
+            "locality": "officerlocality1",
+            "postal_code": "officerpostcode1",
+            "premises": "officerpremises1",
+            "address_line_1": "officeraddressLineis1",
+            "country": "officercountry1"
+          }
+        },
+        {
+          "name": "name2",
+          "officer_role": "role2",
+          "appointed_on": "2024-01-2",
+          "resigned_on": "2024-01-2",
+          "address": {
+            "locality": "officerlocality2",
+            "postal_code": "officerpostcode2",
+            "premises": "officerpremises2",
+            "address_line_1": "officeraddressLineis2",
+            "country": "officercountry2"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "test4",
+      "company_type": "testCompanyType4",
+      "title": "title4",
+      "company_status": "active",
+      "date_of_creation": "2024-01-4",
+      "address": {
+        "locality": "companylocality4",
+        "postal_code": "companypostcode4",
+        "premises": "companypremises4",
+        "address_line_1": "companyaddressLineis4",
+        "country": "companycountry4"
+      },
+      "officers": [
+        {
+          "name": "name0",
+          "officer_role": "role0",
+          "appointed_on": "2024-01-0",
+          "resigned_on": "2024-01-0",
+          "address": {
+            "locality": "officerlocality0",
+            "postal_code": "officerpostcode0",
+            "premises": "officerpremises0",
+            "address_line_1": "officeraddressLineis0",
+            "country": "officercountry0"
+          }
+        },
+        {
+          "name": "name1",
+          "officer_role": "role1",
+          "appointed_on": "2024-01-1",
+          "address": {
+            "locality": "officerlocality1",
+            "postal_code": "officerpostcode1",
+            "premises": "officerpremises1",
+            "address_line_1": "officeraddressLineis1",
+            "country": "officercountry1"
+          }
+        },
+        {
+          "name": "name2",
+          "officer_role": "role2",
+          "appointed_on": "2024-01-2",
+          "resigned_on": "2024-01-2",
+          "address": {
+            "locality": "officerlocality2",
+            "postal_code": "officerpostcode2",
+            "premises": "officerpremises2",
+            "address_line_1": "officeraddressLineis2",
+            "country": "officercountry2"
+          }
+        }
+      ]
+    }
+  ]
+}

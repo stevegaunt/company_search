@@ -1,0 +1,11 @@
+application:
+  security:
+    api-key: testkey
+
+trueproxy:
+  base_url: http://localhost:8081/TruProxyAPI/rest/Companies/v1/
+  company_uri: Search
+  officer_uri: Officers
+
+debug: true
+
