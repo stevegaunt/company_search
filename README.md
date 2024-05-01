@@ -74,3 +74,15 @@ or Cache (eg, nosql database   ) given the search results are varied
 API_KEY=[REAL_API-KEY] ./gradlew :bootRun 
 
 ```
+### example usage
+
+```shell
+curl --location 'http://localhost:8080/api/company/search?activeCompaniesOnly=false' \
+--header 'Content-Type: application/json' \
+--header 'x-api-key: your api key' \
+--data '{
+"companyName" : "test company",
+"companyNumber" : "test number"
+}'
+
+```
